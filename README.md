@@ -2,7 +2,7 @@
 
 **Predators** is a learning-driven SwiftUI app that explores a wide range of Apple development concepts through rich, interactive UI components. From `MapKit` to `JSON Decoding`, `Animations` to `GeometryReader`, this project showcases how SwiftUI simplifies building beautiful and powerful iOS apps.
 
-<img width="1179" height="2556" alt="Simulator Screenshot - iPhone 16 - 2025-08-05 at 10 16 36" src="https://github.com/user-attachments/assets/d58afb8e-ecdc-48d7-bc5e-25056c4f8037" />
+<img width="420" height="911" alt="Simulator Screenshot - iPhone 16 - 2025-08-05 at 10 16 36" src="https://github.com/user-attachments/assets/90fa815d-797d-4e67-9be3-b73b33c5d6f4" />
 
 ---
 
@@ -93,7 +93,6 @@ Connect with tech leads and recruiters hiring for Sr. iOS Developer roles
 
 📫 LinkedIn – Bhavin Chauhan
 
-📸 Screenshots
-List View	Map View	Detail View
+📸 Go Through Video
+https://github.com/user-attachments/assets/67158280-7753-45b2-bc9b-a49e8250341c
 
-(Replace with your actual screenshot paths)
