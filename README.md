@@ -4,7 +4,9 @@
 
 <img width="420" height="911" alt="Simulator Screenshot - iPhone 16 - 2025-08-05 at 10 16 36" src="https://github.com/user-attachments/assets/90fa815d-797d-4e67-9be3-b73b33c5d6f4" />
 
----
+📸 Go Through Video
+https://github.com/user-attachments/assets/9b029c2b-cbcc-48e2-a07a-8ae0eac9747d
+
 
 ## 📚 Learning Topics Covered
 
@@ -93,6 +95,4 @@ Connect with tech leads and recruiters hiring for Sr. iOS Developer roles
 
 📫 LinkedIn – Bhavin Chauhan
 
-📸 Go Through Video
-https://github.com/user-attachments/assets/67158280-7753-45b2-bc9b-a49e8250341c
 
